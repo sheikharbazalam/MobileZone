@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1015472509991",
+    "project_id": "ecommerce-fc421",
+    "storage_bucket": "ecommerce-fc421.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015472509991:android:99a9ee2943e5d6d6432a02",
+        "android_client_info": {
+          "package_name": "com.company.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015472509991-8ij9vnuhjvtt0qubjl5dkp4c1ad55525.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYIKkQt7QUT_laV-pHOwLd15Ohhx48vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015472509991-8ij9vnuhjvtt0qubjl5dkp4c1ad55525.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015472509991-e39esmiuc36pvdgp9uagp51j1c56ktrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cwtEcommerceAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015472509991:android:5fd25f2eb0675a7e432a02",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_admin_panel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015472509991-8ij9vnuhjvtt0qubjl5dkp4c1ad55525.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAYIKkQt7QUT_laV-pHOwLd15Ohhx48vQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015472509991-8ij9vnuhjvtt0qubjl5dkp4c1ad55525.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015472509991-e39esmiuc36pvdgp9uagp51j1c56ktrf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.cwtEcommerceAdminPanel"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
