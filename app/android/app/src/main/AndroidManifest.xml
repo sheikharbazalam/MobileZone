@@ -1,7 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
-    package="com.example.cwt_ecommerce_admin_panel">
-
+    xmlns:tools="http://schemas.android.com/tools">
 
     <!--PERMISSIONS-->
     <uses-permission android:name="android.permission.INTERNET" />
@@ -14,7 +12,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
     <application
-        android:label="MobiJunction"
+        android:label="tstore_ecommerce_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
